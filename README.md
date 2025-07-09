@@ -1,5 +1,10 @@
 # CircFormerMoE
 
+## Model
+```
+## See Models folder
+```
+
 ## Preparing Data
 ```
 ## See preprocessing.ipynb
